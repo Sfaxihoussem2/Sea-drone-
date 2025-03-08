@@ -6,7 +6,7 @@ The Sea Drone project is an autonomous marine vehicle designed for navigation an
 ## System Architecture
 The system architecture is designed to efficiently collect and transmit data while maintaining precise navigation. Below is a high-level diagram illustrating the system components:
 
-![System Architecture](./439914853_284398504762663_6579418254427418034_n.jpg)
+![System Architecture](./diagrame.jpg)
 
 ### Components Used:
 - **ESP8266**: Handles MQTT communication, sensor data processing, and interfacing with the Arduino Mega.
@@ -25,7 +25,7 @@ The sea drone can be monitored and controlled remotely via a web interface that 
 
 Below is a screenshot of the web interface displaying the drone’s real-time position and status:
 
-![Web Interface](./439544365_968023964764443_7626106271228992843_n.jpg)
+![Web Interface](./image.jpg)
 
 ## Codebase
 The software running on the Sea Drone is divided into two main parts:
