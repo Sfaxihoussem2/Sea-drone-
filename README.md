@@ -50,8 +50,3 @@ The software running on the Sea Drone is divided into two main parts:
 The Sea Drone project is an innovative solution for remote marine exploration and data collection. Its combination of embedded systems, real-time communication, and web-based control makes it a valuable tool for various applications, including environmental monitoring, search and rescue, and marine research.
 """
 
-# Write the content to a README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created successfully.")
